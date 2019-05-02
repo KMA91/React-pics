@@ -6,7 +6,7 @@ The purpose of this project to familiarize myself with handling user input with 
 
 ## Quick Overview
 
-This web application is created with create-react-app and serves as an application to test handling data from user input.
+This web application is created with create-react-app and serves as an application to test handling data from user input. This project integrates a 3rd party API (unsplash), usage of event listener, usage of React refs , and Grid CSS.
 
 ## Technical Overview
 
